@@ -43,7 +43,7 @@ and replace your config in `firebase.config.js` file.
 
 ## Demo
 
-[![Watch the video](images/firebase-todo.mp4)](images/firebase-todo.mp4)
+https://user-images.githubusercontent.com/54361799/126032959-2c45d7a5-ce9e-4602-a700-12ae6c5a8f3d.mp4
 
 ## Support
 
